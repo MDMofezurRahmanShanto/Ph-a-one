@@ -1,3 +1,33 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.text-color{
+    color: rgb(226, 14, 113);
+}
+.link{
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: rgb(27, 173, 199);
+    color: rgb(241, 234, 135);
+}
+.sec {
+    display: flex;
+}
+.sec div{
+    width: 50%;
+    padding: 10%;
+}
+.sec div img{
+    width: 70%;
+}
+.sec h1{
+    font-size: 50px;
+}
+.sec-two{
+    display: flex;
+}
+footer{
+    text-align: center;
+    background-color: rgb(6, 6, 36);
+    color: cornsilk;
+}
