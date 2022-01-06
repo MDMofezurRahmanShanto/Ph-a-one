@@ -26,8 +26,8 @@ body{
 }
 .sec-two{
      display: flex;
-     padding-left: 3%;
-     padding-right: 3%;
+     padding-left: 10%;
+     padding-right: 10%;
 }
 .sec-two div{
     width: 30%;
@@ -47,4 +47,22 @@ footer{
 #header{
     border-left: 5px solid rebeccapurple;
     padding-left: 5px;
+}
+.illlustration{
+    width: 40%;
+}
+#mi {
+    border-radius: 20px;
+    background-color: rgb(227, 227, 253);
+    padding: 20px;
+}
+#vi {
+    border-radius: 20px;
+    background-color: rgb(255, 227, 232);
+    padding: 20px;
+}
+#go {
+    border-radius: 20px;
+    background-color: rgb(255, 238, 206);
+    padding: 20px;
 }
