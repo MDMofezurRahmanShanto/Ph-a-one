@@ -6,9 +6,10 @@ body{
 }
 .link{
     text-decoration: none;
-    padding: 5px 10px;
+    padding: 10px 20px;
     background-color: rgb(27, 173, 199);
     color: rgb(241, 234, 135);
+    border-radius: 5px;
 }
 .sec {
     display: flex;
@@ -24,10 +25,21 @@ body{
     font-size: 50px;
 }
 .sec-two{
-    display: flex;
+     display: flex;
+}
+.sec-two div{
+    width: 30%;
 }
 footer{
     text-align: center;
     background-color: rgb(6, 6, 36);
     color: cornsilk;
+}
+.headline{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+}
+#header{
+    border-image: url(linier-grading);
 }
