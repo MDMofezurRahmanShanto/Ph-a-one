@@ -6,7 +6,7 @@ body{
 }
 .link{
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 15px 25px;
     background-color: rgb(27, 173, 199);
     color: rgb(241, 234, 135);
     border-radius: 5px;
@@ -26,9 +26,13 @@ body{
 }
 .sec-two{
      display: flex;
+     padding-left: 3%;
+     padding-right: 3%;
 }
 .sec-two div{
     width: 30%;
+    padding: 5px;
+    margin: 10px;
 }
 footer{
     text-align: center;
@@ -41,5 +45,6 @@ footer{
     font-weight: bolder;
 }
 #header{
-    border-image: url(linier-grading);
+    border-left: 5px solid rebeccapurple;
+    padding-left: 5px;
 }
